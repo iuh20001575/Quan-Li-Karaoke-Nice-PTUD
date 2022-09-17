@@ -8,8 +8,7 @@ public class Starting {
 
 			@Override
 			public void run() {
-//				Login_GUI login_GUI = new Login_GUI();
-//				login_GUI.setVisible(true);
+				new BarChart().setVisible(true);
 			}
 		});
 	}
