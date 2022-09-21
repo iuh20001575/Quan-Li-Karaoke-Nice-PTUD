@@ -36,13 +36,13 @@ public class DefaultLayout {
 					drawer.show();
 			}
 		});
-		btnMenu.setBounds(10, 10, 47, 32);
+		btnMenu.setBounds(10, 10, 50, 32);
 		jPanel.add(btnMenu);
 		
 		JLabel lblNewLabel = new JLabel("Karaoke Rome");
 		lblNewLabel.setFont(new Font("Tahoma", Font.PLAIN, 24));
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
-		lblNewLabel.setBounds(67, 10, 784, 32);
+		lblNewLabel.setBounds(70, 10, 940, 32);
 		jPanel.add(lblNewLabel);
 	}
 }
