@@ -10,5 +10,7 @@
 	<classpathentry kind="lib" path="libs/jcommon-1.0.23.jar"/>
 	<classpathentry kind="lib" path="libs/jfreechart-1.0.19.jar"/>
 	<classpathentry kind="lib" path="libs/timingframework-1.0.jar"/>
+	<classpathentry kind="lib" path="libs/gradient-icon-font.jar"/>
+	<classpathentry kind="lib" path="libs/pie-chart.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
